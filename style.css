@@ -1,0 +1,16 @@
+.flex-parent{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(196, 233, 255);
+    font-size: 24px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 500px;
+    max-height: 600px;
+}
+.flex-child{
+    background-color: rgb(251, 154, 227);
+    padding: 20px;
+    margin: 10px;
+}
